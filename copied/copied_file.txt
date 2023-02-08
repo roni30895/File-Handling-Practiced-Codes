@@ -1,0 +1,14 @@
+1.Write a function to create simple text file with some text content.
+2.Write a function to read an existing text file and display its contents in terminal
+3.Write a function to add text content to any existing file.
+4.Write a function to read excel sheet file and display data on terminal.
+5.Write a function to read csv file and display data on terminal.
+6.Write a function to create a excel sheet file with content.
+7.Write a function to create CSV file with content.
+8.Write a function to generate dummy files? Create large dummy / test files / directories with data size 1 to 10 GB. ( Do require internet research )
+9.Write a function to delete files or directories.
+10.Write a function where its file or directory.
+11.Write a function to copy data from one directory to another directory.
+12.Write a function to copy data from one machine to another machine.
+13.Write a function to display content of directory.
+14.Write a function to change permission of file or directories.
